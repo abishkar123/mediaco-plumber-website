@@ -1,0 +1,38 @@
+.request-box{
+    position: relative;
+    bottom: 1336px;
+    background: rgba(128, 128, 128, 0.128);
+    height: 90vh;
+   
+}
+.page-quote{
+    padding-left: 100px;
+    padding-top: 60px;
+}
+
+
+.no-call-fee-img{
+    width: 30vh;
+    position: relative;
+    left: 900px;
+    bottom: 260px;
+}
+.phone-img{
+    width:40vh;
+    position: relative;
+    left: 1100px;
+    bottom: 490px;
+}
+.Form{
+    position: relative;
+    left: 100px;
+    bottom: 460px;
+    height:40vh;
+    width: 180vh;
+    background: rgb(255, 255, 255);
+}
+
+.quote-button{
+    position: relative;
+    right: 30px;
+}

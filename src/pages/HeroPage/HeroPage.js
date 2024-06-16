@@ -9,6 +9,7 @@ import servicerating from '../HeroPage/rating-services.png'
 
 export const HeroPage = () => {
   return (
+ 
     <div className='hero-section mt-1'>
         
         <div className='main-img-bg'>
@@ -38,69 +39,10 @@ export const HeroPage = () => {
 
             </div>
         </div>
-        
-       
-
-
-{/* 
-        <section className="hero-section" style={{ backgroundImage: `url(${homepageImg})` }}>
-            <div className="hero-content">
-                <h1>Your Local <span className="highlight">Hot Water Experts</span></h1>
-                <ul className="hero-features">
-                    <li>
-                        <img 
-                        // src={plumbingWhiteIcon} 
-                        alt="Upfront Pricing" />
-                        <div>
-                            <h3>Upfront pricing</h3>
-                            <p>Know the price of the job before we start.</p>
-                        </div>
-                    </li>
-                    <li>
-                        <img
-                        //  src={noCallOutIcon} 
-                         alt="$0 Call Out" />
-                        <div>
-                            <h3>$0 Call out</h3>
-                            <p>No call out fees</p>
-                        </div>
-                    </li>
-                    <li>
-                        <img 
-                        // src={onlineBookingIcon} 
-                        alt="$50 off for online bookings" />
-                        <div>
-                            <h3>$50 off for online bookings</h3>
-                            <p>Book online to receive a discount</p>
-                        </div>
-                    </li>
-                </ul>
-                <div className="ratings">
-                    <div className="rating">
-                        <h3>4.9</h3>
-                        <p>Average Rating</p>
-                        <img 
-                        // src={facebookIcon} 
-                        alt="Facebook" />
-                    </div>
-                    <div className="rating">
-                        <h3>5.0</h3>
-                        <p>Average Rating</p>
-                        <img 
-                        // src={googleIcon} 
-                        alt="Google" />
-                    </div>
-                    <div className="rating">
-                        <h3>24h</h3>
-                        <p>Emergency Services</p>
-                    </div>
-                </div>
-            </div>
-            <div className="hero-image">
-                <img src={banner} alt="Technician" />
-            </div>
-        </section> */}
 
     </div>
+
+ 
+    
   )
 }
