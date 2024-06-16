@@ -1,0 +1,96 @@
+
+
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #222;
+    padding: 10px 20px;
+    color: #fff;
+    height: 8vh;
+    
+}
+
+.logo img {
+    height: 40px;
+    border-radius: 10px;
+    position: relative;
+    left: 35px;
+}
+
+.nav-links {
+    display: flex;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    font-size: 12px;
+    position: relative;
+    left: 300px;
+}
+
+.nav-links li {
+    margin: 0 15px;
+}
+
+.nav-links a {
+    color: #fff;
+    text-decoration: none;
+}
+.vertical_line{
+    border-radius: 1px solid white;
+    margin-left: 20px;
+    transform: skew(-11deg, 0deg);
+    position: relative;
+    left: 200px;
+
+}
+
+.vertical_line-second{
+    border-radius: 1px solid white;
+    margin-left: 20px;
+    transform: skew(-11deg, 0deg);
+    position: relative;
+    right: 20px;
+}
+
+.availability {
+    display: flex;
+    align-items: center;
+    position: relative;
+    left: 100px;
+    
+}
+
+.availability .status-dot {
+    width: 10px;
+    height: 10px;
+    background-color: green;
+    border-radius: 50%;
+    margin: 0 5px;
+    
+}
+
+.contact-buttons {
+    display: flex;
+    align-items: center;
+    transform: skew(-36deg, 0deg);
+}
+
+.quote-button {
+    background-color: #00aaff;
+    color: #fff;
+    border: none;
+    padding: 6px 15px;
+    margin-right: 15px;
+    cursor: pointer;
+    border-radius: 5px;
+    transform: skew(14deg, 0deg);
+    
+}
+
+.phone-number {
+    border: 1px solid #fff;
+    padding: 6px 15px;
+    border-radius: 5px;
+    transform: skew(18deg, 0deg);
+}
