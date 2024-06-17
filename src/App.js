@@ -4,6 +4,7 @@ import { Header } from './pages/Header/Header';
 import {HeroPage} from './pages/HeroPage/HeroPage'
 import { RequestForm } from './pages/RequestForm/RequestForm';
 import { Test } from './pages/Test/Test';
+import { Banner } from './pages/servicespage/Banner';
 import { ServicePage } from './pages/servicespage/ServicePage';
 
 function App() {
@@ -14,6 +15,7 @@ function App() {
       <RequestForm/>
       <ServicePage/>
       {/* <Test/> */}
+      {/* <Banner/> */}
     </div>
   );
 }

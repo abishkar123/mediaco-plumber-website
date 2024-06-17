@@ -23,5 +23,39 @@
     display: flex;
     aspect-ratio: 4/2;
     object-fit: contain;
-    width: 12%
+    width: 15%;
+    
+}
+.banner-color{
+    background-color: #090981c2;
+}
+.div-color{
+    transform: skew(-2deg, 0deg);  
+}
+
+.contact-number{
+    border: 1px solid white;
+    border-radius: 0.1rem;
+    padding: 0.6rem 1rem;
+    width: 8rem;
+    height: 2.7rem;
+    background-color: #090981c2;
+    color: white;
+    transform: skew(-9deg, 0deg); 
+
+    position: relative;
+    left: 70rem;
+    top: 3rem;
+}
+
+.custom-quote{
+    width: 8rem;
+    height: 2.7rem;
+    background-color:white;
+    color: blue;
+    transform: skew(-9deg, 0deg); 
+
+    position: absolute;
+    left: 80rem;
+    top: 3rem;
 }

@@ -17,8 +17,9 @@ export const Brand = () => {
             <p className='text-2xl font-bold px-16'> We use well known brands including</p>
 
         </div>
+
         <div>
-            <div className='brand_icons space-x-16 p-1'>
+            <div className='brand_icons space-x-4'>
             <img className='w-30' src={vulcan} alt='brands_name'/>
             <img src={thermann} alt='brand_name'/>
             <img src={parisi} alt='brand_naem'/>
@@ -29,7 +30,13 @@ export const Brand = () => {
 
             </div>
             
+        
         </div>
+
+        <div>
+
+        </div>
+
     </div>
   )
 }

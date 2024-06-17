@@ -3,6 +3,7 @@ import './Servicepage.css';
 import discount_icon from '../servicespage/discount.png'
 import Cardpage from './Cardpage';
 import { Brand } from './Brand';
+import { Banner } from './Banner';
 
 export const ServicePage = () => {
   return (
@@ -17,6 +18,8 @@ export const ServicePage = () => {
       <div>
         <Cardpage/>
         <Brand/>
+        <Banner/>
+        
       </div>
         
      </div>
