@@ -1,0 +1,27 @@
+.custom-body{
+    background:rgba(198, 181, 181, 0.064);
+    min-height: 100dvh;
+    position: relative;
+    bottom: 1330px;
+    
+}
+
+
+.service-highlight{
+    position: relative;
+    top: 80px; 
+    left: 650px;
+}
+.text-hightlight{
+   position: relative;
+   top: 85px;
+   left: 400px;
+}
+
+
+.brand_icons{
+    display: flex;
+    aspect-ratio: 4/2;
+    object-fit: contain;
+    width: 12%
+}
