@@ -1,0 +1,44 @@
+.review-div{
+    width: auto;
+    min-height:50vh;
+    
+    position: relative;
+    background: rgba(128, 128, 128, 0.041);
+}
+
+.box{
+    width: 60vh;
+    height: 40vh;
+    position: relative;
+   
+}
+.form-div{
+    width: auto;
+    background-color:  rgba(128, 128, 128, 0.041);
+    min-height: 80vh;
+    position: relative;
+
+}
+
+.book-div{
+    position: absolute;
+    top: 10rem;
+    width: 45rem;
+    left: 8rem;
+}
+.map-box{
+    background: rgb(80, 75, 75);
+    width: 25rem;
+    height: 20rem;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 2rem;
+    font-weight: bolder;
+
+    position: absolute;
+    left: 60rem;
+    top: 10rem;
+}

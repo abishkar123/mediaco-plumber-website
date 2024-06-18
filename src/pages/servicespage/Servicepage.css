@@ -51,8 +51,7 @@
 .custom-quote{
     width: 8rem;
     height: 2.7rem;
-    background-color:white;
-    color: blue;
+    background: blue;
     transform: skew(-9deg, 0deg); 
 
     position: absolute;

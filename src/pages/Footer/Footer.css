@@ -1,0 +1,66 @@
+.footer-div{
+    min-height: 60vh;
+    width: full;
+    background:#0a0a4be0;
+
+    position: relative;
+}
+
+.footer-logo{
+    border: 1px solid white;
+    border-radius: 1rem;
+    width: 20rem;
+
+    position: absolute;
+    top: 6rem;
+    left: 12rem;
+}
+
+.service-div{
+    position: absolute;
+    top: 5rem;
+    left: 40rem;
+}
+.style-hr{
+    border: none; 
+    height: 1px; 
+    background-color: #00aaffa6; 
+    margin: 2rem 0rem; 
+    width: 80%;
+
+    position: absolute;
+    top: 18rem;
+    left:12rem;
+
+
+}
+
+
+.link-dev{
+    position: absolute;
+    top: 5rem;
+    left: 60rem;
+}
+
+.contact-div{
+    position: absolute;
+    top: 5rem;
+    left: 80rem;
+}
+.quote-footer{
+    border: 1px solid white;
+    border-radius: 0.1rem;
+    padding: 0.6rem 1rem;
+    width: 8rem;
+    height: 2.7rem;
+    background-color: white;
+    color: rgba(0, 0, 255, 0.623);
+
+    font-weight: bold;
+    position: absolute;
+    transform: skew(-8deg, 0deg); 
+
+    
+}
+
+

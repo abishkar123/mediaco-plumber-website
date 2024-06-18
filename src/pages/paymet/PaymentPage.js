@@ -9,7 +9,7 @@ export const PaymentPage = () => {
     <div>
         <div className='payment-div'>
             <div>
-                <img  className="logo" src={logo} alt=''/>
+                <img  className="logo" src={logo} alt='company_logo'/>
             </div>
             <div>
                 <p className='text-3xl text-white payment-plan'>Ask about our payment plans</p>
