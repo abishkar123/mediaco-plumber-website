@@ -32,7 +32,7 @@ export const Deliver = () => {
         
         </div>
 
-        <aside  className='position:relative'>
+        <aside  className=''>
             <img   className='plumbing-background' src={img} alt='pluber-image'/>
             
             

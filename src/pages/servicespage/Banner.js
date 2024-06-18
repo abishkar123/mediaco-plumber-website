@@ -18,8 +18,7 @@ export const Banner = () => {
 
         </div>
         <div>
-            <button></button>
-            <button></button>
+            
         </div>
         </div>
     </div>
