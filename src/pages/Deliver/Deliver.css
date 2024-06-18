@@ -1,0 +1,43 @@
+.box{
+    width: 100%;
+    height: 79vh;
+    position: relative;
+  
+    
+
+}
+
+.hightlight-header{
+    font-weight: bold;
+    
+    position: relative;
+    left: 10rem;
+    padding-top: 5rem;
+
+
+}
+.content-hightligh{
+  position: absolute;
+  left: 10rem;
+  width: 28rem;
+  
+
+}
+
+
+.tool-position{
+    transform: skew(-9deg, 0deg);
+    position: relative;
+    top: 12rem;
+    left: 10rem;
+}
+
+.plumbing-background{
+    position: relative;
+    width: 52%;
+    height: 80vh;
+    left: 47rem;
+    bottom: 34.5rem;
+    transform: skew(-9deg, 0deg);
+}
+
